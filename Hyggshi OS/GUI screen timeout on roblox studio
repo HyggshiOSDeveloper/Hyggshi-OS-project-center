@@ -1,0 +1,29 @@
+local player = game.Players.LocalPlayer
+local userInputService = game:GetService("UserInputService")
+local runService = game:GetService("RunService")
+local screenGui = script.Parent -- Access the GUI
+local idleTime = 0
+local idleThreshold = 180 -- Idle time threshold set to 3 minutes (180 seconds) edit time as you want but only edit in seconds for example 1 minute equals 60 seconds
+
+-- Hide the GUI initially
+screenGui.Enabled = false
+
+-- Reset idle time when there is activity
+local function resetIdleTime()
+	idleTime = 0
+	if screenGui.Enabled then
+		screenGui.Enabled = false -- Hide the idle screen when the player is active
+	end
+end
+
+-- Listen for player input events
+userInputService.InputBegan:Connect(resetIdleTime)
+userInputService.InputChanged:Connect(resetIdleTime)
+
+-- Track idle time
+runService.Heartbeat:Connect(function(deltaTime)
+	idleTime = idleTime + deltaTime
+	if idleTime >= idleThreshold then
+		screenGui.Enabled = true -- Show the GUI if there has been no activity for long enough
+	end
+end)
