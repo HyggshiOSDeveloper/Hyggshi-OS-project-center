@@ -3,7 +3,7 @@
 local UIS = game:GetService('UserInputService')
 local frame = script.Parent -- The frame you want to move
 local dragToggle = nil -- Drag status flag
-local dragSpeed = 0.25 -- Movement speed
+local dragSpeed = 0.25 -- Movement speed. Simply put, when the weight is set to 0.0, its movement speed will no longer have any effect and will be faster. You can try it like Windows on a real computer. But when it is set to higher like 0.80 or 90 or maybe higher, its speed will be slower.
 local dragStart = nil -- Starting position when clicking
 local startPos = nil -- Initial Position of Frame
 
