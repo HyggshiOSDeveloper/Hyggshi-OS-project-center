@@ -10,4 +10,4 @@ Hyggshi OS Developer là một dự án phát triển hệ điều hành mini d�
 ## Installation
 1. Clone repository này:
    ```bash
-   git clone https://github.com/username/hyggshi-os-developer.git
+   git clone https://github.com/HyggshiOSDeveloper/Hyggshi-OS-project-center.git
