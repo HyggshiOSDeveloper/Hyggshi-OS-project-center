@@ -1,0 +1,27 @@
+# Roblox studio
+*.rbxl.autosave
+*.rbxlx.autosave
+*.log
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE config files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build files
+build/
+dist/
+
+# Compressed files
+*.zip
+*.rar
+*.7z
