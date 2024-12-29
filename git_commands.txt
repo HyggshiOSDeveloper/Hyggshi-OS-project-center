@@ -1,0 +1,30 @@
+"# Git Commands" 
+"git status" 
+"git add ." 
+"git commit -m \"Your commit message\"" 
+"git push origin <branch-name>" 
+"git pull origin <branch-name>" 
+"git remote -v" 
+
+
+# Kiểm tra trạng thái của repository
+git status
+
+# Thêm file mới hoặc thay đổi vào staging
+git add <file>         # Thêm một file cụ thể
+git add .              # Thêm tất cả file mới hoặc thay đổi
+
+# Commit thay đổi với tin nhắn
+git commit -m "Your commit message"
+
+# Kết nối với remote repository
+git remote add origin <repository-url>
+
+# Đẩy thay đổi lên GitHub
+git push origin <branch-name>
+
+# Kéo (pull) thay đổi mới nhất từ GitHub
+git pull origin <branch-name>
+
+# Kiểm tra địa chỉ remote repository
+git remote -v
