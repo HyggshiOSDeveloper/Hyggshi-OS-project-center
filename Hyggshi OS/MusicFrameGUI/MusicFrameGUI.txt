@@ -1,0 +1,127 @@
+-- Main objects
+local soundList = script.Parent.SoundList -- ScrollingFrame
+local sampleButton = soundList.SampleButton -- Sample button
+local label = script.Parent:FindFirstChild("SongLabel") -- Label displaying song name
+local timeLabel = script.Parent:FindFirstChild("TimeLabel") -- Label displaying play time
+local playButton = script.Parent:FindFirstChild("PlayButton") -- Play button
+local stopButton = script.Parent:FindFirstChild("StopButton") -- Stop button
+local nextButton = script.Parent:FindFirstChild("NextButton") -- Next button
+
+-- Sound folder in Workspace
+local soundsFolder = game.Workspace:FindFirstChild("Sounds")
+
+-- Check the sound folder
+if not soundsFolder then
+	warn("The Sounds folder does not exist in the Workspace!")
+	return
+end
+
+-- Create Sound object to play music
+local soundPlayer = Instance.new("Sound")
+soundPlayer.Name = "MainSound"
+soundPlayer.Parent = game.Workspace
+
+-- List of sounds and current state
+local sounds = {} -- Store sound objects
+local currentSoundIndex = 0 -- Current song position
+
+-- Time formatting function
+local function formatTime(seconds)
+	local minutes = math.floor(seconds / 60)
+	local secs = math.floor(seconds % 60)
+	return string.format("%02d:%02d", minutes, secs)
+end
+
+-- Update the music play time
+local function updateTime()
+	while soundPlayer.IsPlaying do
+		if timeLabel then
+			local currentTime = soundPlayer.TimePosition -- Current time
+			local totalTime = soundPlayer.TimeLength -- Total time of the song
+			timeLabel.Text = string.format("%s / %s", formatTime(currentTime), formatTime(totalTime))
+		end
+		wait(0.1) -- Update every 0.1 seconds
+	end
+end
+
+-- Play music at a specific position
+local function playSoundAtIndex(index)
+	if index > 0 and index <= #sounds then
+		local sound = sounds[index]
+		soundPlayer.SoundId = sound.SoundId -- Set SoundId from the sound
+		soundPlayer.Volume = 1 -- Set volume
+		soundPlayer:Play() -- Play music
+
+		-- Update song name
+		if label then
+			label.Text = "Playing: " .. sound.Name
+		end
+
+		-- Update play time
+		updateTime()
+	else
+		warn("Invalid index: " .. tostring(index))
+	end
+end
+
+-- Connect event for Play button
+playButton.MouseButton1Click:Connect(function()
+	if not soundPlayer.IsPlaying and soundPlayer.SoundId ~= "" then
+		soundPlayer:Resume() -- Resume playing music
+		label.Text = "Playing: " .. soundPlayer.Name
+		updateTime()
+	else
+		warn("No song is paused or SoundId is invalid!")
+	end
+end)
+
+-- Connect event for Stop button
+stopButton.MouseButton1Click:Connect(function()
+	if soundPlayer.IsPlaying then
+		soundPlayer:Stop() -- Stop the music completely
+		label.Text = "Stopped"
+		timeLabel.Text = "00:00 / 00:00"
+	else
+		warn("No song is playing!")
+	end
+end)
+
+-- Connect event for Next button
+nextButton.MouseButton1Click:Connect(function()
+	if currentSoundIndex < #sounds then
+		currentSoundIndex = currentSoundIndex + 1 -- Move to the next song
+		playSoundAtIndex(currentSoundIndex)
+	else
+		warn("You are at the last song!")
+	end
+end)
+
+-- Get sound list and create buttons
+local yOffset = 0 -- Vertical distance between buttons
+for _, sound in ipairs(soundsFolder:GetChildren()) do
+	if sound:IsA("Sound") then
+		-- Add sound to the list
+		table.insert(sounds, sound)
+
+		-- Create a new button from the sample button
+		local newButton = sampleButton:Clone()
+		newButton.Visible = true
+		newButton.Text = sound.Name -- Display the sound name
+		newButton.Parent = soundList -- Attach to the ScrollingFrame
+
+		-- Connect event when button is clicked
+		newButton.MouseButton1Click:Connect(function()
+			print("Playing sound: " .. sound.Name)
+			currentSoundIndex = table.find(sounds, sound) -- Get the current sound position
+			playSoundAtIndex(currentSoundIndex)
+		end)
+
+		-- Update button position in the list
+		yOffset = yOffset + newButton.Size.Y.Offset
+	end
+end
+
+-- Update the size of the ScrollingFrame
+soundList.CanvasSize = UDim2.new(0, 0, 0, yOffset)
+
+print("The sound list has been successfully created!")
