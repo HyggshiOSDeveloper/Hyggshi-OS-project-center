@@ -1,0 +1,36 @@
+-- LocalScript inside a Frame or ScreenGui
+
+local userInputService = game:GetService("UserInputService")
+local frame = script.Parent  -- Reference to the Frame or ScreenGui
+
+local isFrameVisible = true  -- State variable for Frame visibility
+local isShiftPressed = false  -- Variable to check if the Shift key is pressed
+
+-- Function to toggle the visibility of the Frame
+local function toggleFrameVisibility()
+	isFrameVisible = not isFrameVisible
+	frame.Visible = isFrameVisible
+end
+
+-- Listen for events when a key is pressed
+userInputService.InputBegan:Connect(function(input, gameProcessed)
+	if not gameProcessed then  -- Check if the event is processed by the system
+		-- Check if the Shift key is pressed
+		if input.KeyCode == Enum.KeyCode.LeftShift or input.KeyCode == Enum.KeyCode.RightShift then
+			isShiftPressed = true
+		end
+
+		-- Check if the S key is pressed while Shift is being held
+		if input.KeyCode == Enum.KeyCode.S and isShiftPressed then
+			toggleFrameVisibility()
+		end
+	end
+end)
+
+-- Listen for events when a key is released
+userInputService.InputEnded:Connect(function(input)
+	-- Check if the Shift key is released
+	if input.KeyCode == Enum.KeyCode.LeftShift or input.KeyCode == Enum.KeyCode.RightShift then
+		isShiftPressed = false
+	end
+end)
