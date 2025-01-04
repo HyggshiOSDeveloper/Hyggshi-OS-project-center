@@ -6,17 +6,17 @@ We actively maintain security updates for the following versions of Hyggshi OS D
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | ✅ (Active Support) |
-| 5.0.x   | ❌ (No Longer Supported) |
-| 4.0.x   | ✅ (Limited Support) |
-| < 4.0   | ❌ (End of Life) |
+| 1.0   | ✅ (Active Support) |
+| 1.5 Pro   | ❌ (No Longer Supported) |
+| 7.2.3 Dev  | ✅ (Limited Support) |
+| Unknown   | ❌ (End of Life) |
 
 ## 🛡️ Reporting a Vulnerability
 
 If you discover a security vulnerability, please follow these steps:
 
 1. **Do not disclose it publicly.** Instead, report it privately to our security team.
-2. **Send an email to:** `security@hyggshios.com`
+2. **Send an email to:** `hyggshidev@gmail.com`
 3. **Include a detailed description**, including:
    - Affected version(s)
    - Steps to reproduce (if applicable)
