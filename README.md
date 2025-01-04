@@ -7,6 +7,7 @@ Hyggshi OS Developer là một dự án phát triển hệ điều hành mini d�
 - Tính năng Zashi Messaging.
 - Tích hợp tính năng timeout màn hình.
 
+
 ## Installation
 1. Clone repository này:
    ```bash
