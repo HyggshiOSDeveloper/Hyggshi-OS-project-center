@@ -44,7 +44,3 @@ If you have any questions or suggestions, feel free to open an **issue** or cont
 
 Thank you for contributing! 💙  
 
----
-
-Would you like any modifications or additions? 😊
-Cảm ơn bạn đã đóng góp! 💙  
