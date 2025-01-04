@@ -20,7 +20,7 @@ If you discover a security vulnerability, please follow these steps:
 3. **Include a detailed description**, including:
    - Affected version(s)
    - Steps to reproduce (if applicable)
-   - Possible attack scenarios
+   - can not talk
    - Any suggested fixes or patches
 
 ### ⏳ Response Timeline
