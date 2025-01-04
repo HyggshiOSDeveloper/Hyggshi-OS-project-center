@@ -1,2 +1,1 @@
--- Hyggshi OS Developer script
-print("Welcome to Hyggshi OS!")
+print ("Welcome to Hyggshi OS!")
