@@ -1,38 +1,27 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+name: Bug Report
+about: Report an issue to help us improve
+title: "[Bug] <Short bug description>"
+labels: bug
+assignees: HyggshiOSDeveloper
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## 🐞 Bug Description
+*A clear and detailed description of the bug. Attach screenshots if necessary.*
 
-**To Reproduce**
-Steps to reproduce the behavior:
+## 🔄 Steps to Reproduce
+Steps to reproduce the bug:
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+2. Click on '...'
+3. Observe the bug '...'
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## 🖥️ Environment
+- Operating System: [Windows/macOS/Linux]
+- Hyggshi OS Developer Version: [e.g., v1.0]
+- Roblox Studio Version (if applicable): [e.g., Beta]
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## 📌 Expected Behavior
+*Describe what you expected to happen instead of the bug.*
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+## 📝 Additional Notes
+*Any other information that might help fix this issue.*
