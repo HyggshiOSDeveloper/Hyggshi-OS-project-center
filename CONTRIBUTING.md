@@ -1,6 +1,3 @@
-Here is a suggested `CONTRIBUTING.md` file in English for the **Hyggshi OS Developer** project on **Roblox Studio**:  
-
----
 
 # **Contributing Guidelines** 🚀  
 
