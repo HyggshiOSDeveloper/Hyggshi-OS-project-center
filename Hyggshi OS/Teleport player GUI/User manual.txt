@@ -1,0 +1,21 @@
+[VN]
+Hướng dẫn sử dụng Teleport player trên Roblox Studio
+Bước 1: Đảm bảo game của bạn đã có sẵn, hoặc tạo game mới nếu chưa có.
+Bước 2: Tạo một RemoteEvent trong ReplicatedStorage.
+Bước 3: Tạo ScreenGui trong StarterGui.
+Bước 4: Thêm Frame hoặc Button tùy theo ý muốn.
+Bước 5: Tạo LocalScript và gắn vào Button.
+Bước 6: Copy đoạn mã sau vào LocalScript.
+Bước 7: Sau khi copy xong, bạn vẫn cần vào cài đặt trò chơi.
+Bước 8: Chọn vào Bảo mật và bật "Cho phép dịch chuyển từ bên thứ ba".
+
+[EN]
+How to use Teleport player on Roblox Studio
+Step 1: Make sure your game is available, or create a new game if not.
+Step 2: Create a RemoteEvent in ReplicatedStorage.
+Step 3: Create ScreenGui in StarterGui.
+Step 4: Add a Frame or Button as desired.
+Step 5: Create a LocalScript and attach it to the Button.
+Step 6: Copy the code into the LocalScript.
+Step 7: After copying, you still need to go to the game settings.
+Step 8: Select Security and enable "Allow third-party teleportation".

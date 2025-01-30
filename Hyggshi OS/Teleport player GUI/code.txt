@@ -1,0 +1,6 @@
+local TeleportButton = script.Parent
+local GameID = 012456789 -- Change this ID to the Game ID where you want the player to teleport to.
+
+TeleportButton.MouseButton1Click:Connect(function()
+	game:GetService("TeleportService"):Teleport(GameID, game.Players.LocalPlayer)
+end) 
