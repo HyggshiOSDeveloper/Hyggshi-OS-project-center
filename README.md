@@ -17,5 +17,4 @@ Hyggshi OS Developer là một dự án phát triển hệ điều hành mini d�
    git clone https://github.com/HyggshiOSDeveloper/Hyggshi-OS-project-center.git
 
 
-[![Roblox](![image](https://github.com/user-attachments/assets/23d83849-169b-4877-af3d-21c6415c295f)
-)]((https://github.com/ROBLOX))
+[![Roblox](https://1000logos.net/wp-content/uploads/2017/09/Roblox-Logo.png)](https://github.com/ROBLOX)
