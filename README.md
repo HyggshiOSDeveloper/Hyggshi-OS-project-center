@@ -22,7 +22,11 @@ Hyggshi OS Developer là một dự án phát triển hệ điều hành mini d�
 This product does not violate Roblox or third party standards and is an unofficial product. It is not released by any professional team or organization. Some ideas are based on Windows, real OS or other operating systems, including in-game. The idea and scenario started in 2023. At the moment, the project has the following versions:
 
 Hyggshi OS 1.3 New Update
+
 Hyggshi OS 2.0 has been released
-Hyggshi OS Dev
+
+Hyggshi OS Developer
+
 Hyggshi OS operating system center
+
 Hyggshi OS 1.5 Pro
