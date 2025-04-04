@@ -36,83 +36,83 @@ SaddleBrown	|(139 69 19)	|#8B4513                |
 Sienna	|(160 82 45)	|#A0522D                    |
 OldLace	|(253 245 230)	|#FDF5E6                  |
 Linen	|(250 240 230)	|# FAF0E6                   |
-PapayaWhip	(255 239 213)	# FFEFD5
-BlanchedAlmond	(255 235 205)	# FFEBCD
-Moccasin	(255 228 181)	# FFE4B5
-Peru	(205 133 63)	# CD853F
-Beige	(245 245 220)	# F5F5DC
-SandyBrown	(244 164 96)	# F4A460
-Snow1	(255 250 250)	# FFFAFA
-Snow2	(238 233 233)	# EEE9E9
-Snow3	(205 201 201)	# CDC9C9
-Snow4	(139 137 137)	# 8B8989
-Seashell1	(255 245 238)	# FFF5EE
-Seashell2	(238 229 222)	# EEE5DE
-Seashell3	(205 197 191)	# CDC5BF
-Seashell4	(139 134 130)	# 8B8682
-AntiqueWhite	(250 235 215)	# FAEBD7
-AntiqueWhite1	(255 239 219)	# FFEFDB
-AntiqueWhite2	(238 223 204)	# EEDFCC
-AntiqueWhite3	(205 192 176)	# CDC0B0
-AntiqueWhite4	(139 131 120)	# 8B8378
-Bisque1	(255 228 196)	# FFE4C4
-Bisque2	(238 213 183)	# EED5B7
-Bisque3	(205 183 158)	# CDB79E
-Bisque4	(139 125 107)	# 8B7D6B
-PeachPuff1	(255 218 185)	# FFDAB9
-PeachPuff2	(238 203 173)	# EECBAD
-PeachPuff3	(205 175 149)	# CDAF95
-PeachPuff4	(139 119 101)	# 8B7765
-NavajoWhite1	(255 222 173)	# FFDEAD
-NavajoWhite2	(238 207 161)	# EECFA1
-NavajoWhite3	(205 179 139)	# CDB38B
-NavajoWhite4	(139 121 94)	# 8B795E
-LemonChiffon1	(255 250 205)	# FFFACD
-LemonChiffon2	(238 233 191)	# EEE9BF
-LemonChiffon3	(205 201 165)	# CDC9A5
-LemonChiffon4	(139 137 112)	# 8B8970
-Cornsilk1	(255 248 220)	# FFF8DC
-Cornsilk2	(238 232 205)	# EEE8CD
-Cornsilk3	(205 200 177)	# CDC8B1
-Cornsilk4	(139 136 120)	# 8B8878
-Ivory1	(255 255 240)	# FFFFF0
-Ivory2	(238 238 224)	# EEEEE0
-Ivory3	(205 205 193)	# CDCDC1
-Ivory4	(139 139 131)	# 8B8B83
-MintCream	(245 255 250)	# F5FFFA
-Honeydew1	(240 255 240)	# F0FFF0
-Honeydew2	(224 238 224)	# E0EEE0
-Honeydew3	(193 205 193)	# C1CDC1
-Honeydew4	(131 139 131)	# 838B83
-LavenderBlush1	(255 240 245)	# FFF0F5
-LavenderBlush2	(238 224 229)	# EEE0E5
-LavenderBlush3	(205 193 197)	# CDC1C5
-LavenderBlush4	(139 131 134)	# 8B8386
-Lavender	(230 230 250)	# E6E6FA
-MistyRose1	(255 228 225)	# FFE4E1
-MistyRose2	(238 213 210)	# EED5D2
-MistyRose3	(205 183 181)	# CDB7B5
-MistyRose4	(139 125 123)	# 8B7D7B
-Azure1	(240 255 255)	# F0FFFF
-Azure2	(224 238 238)	# E0EEEE
-Azure3	(193 205 205)	# C1CDCD
-Azure4	(131 139 139)	# 838B8B
-AliceBlue	(240 248 255)	# F0F8FF
-LightSlateBlue	(132 112 255)	# 8470FF
-MediumSlateBlue	(123 104 238)	# 7B68EE
-SlateBlue	(106 90 205)	# 6A5ACD
-SlateBlue1	(131 111 255)	# 836FFF
-SlateBlue2	(122 103 238)	# 7A67EE
-SlateBlue3	(105 89 205)	# 6959CD
-SlateBlue4	(71 60 139)	# 473C8B
-DarkSlateBlue	(72 61 139)	# 483D8B
-RoyalBlue	(65 105 225)	# 4169E1
-RoyalBlue1	(72 118 255)	# 4876FF
-RoyalBlue2	(67 110 238)	# 436EEE
-RoyalBlue3	(58 95 205)	# 3A5FCD
-RoyalBlue4	(39 64 139)	# 27408B
-Blue1	(0 0 255)	# 0000FF
-Blue2	(0 0 238)	# 0000EE
+PapayaWhip	|(255 239 213)	|# FFEFD5                  |
+BlanchedAlmond	|(255 235 205)	|# FFEBCD                  |
+Moccasin	|(255 228 181)	|# FFE4B5                  |
+Peru	|(205 133 63)	|# CD853F                  |
+Beige	|(245 245 220)	|# F5F5DC                  |
+SandyBrown	|(244 164 96)	|# F4A460                  |
+Snow1	|(255 250 250)	|# FFFAFA                  |
+Snow2	|(238 233 233)	|# EEE9E9                  |
+Snow3	|(205 201 201)	|# CDC9C9                  |
+Snow4	|(139 137 137)	|# 8B8989                  |
+Seashell1	|(255 245 238)	|# FFF5EE                  |
+Seashell2	|(238 229 222)	|# EEE5DE                  |
+Seashell3	|(205 197 191)	|# CDC5BF                  |
+Seashell4	|(139 134 130)	|# 8B8682                  |
+AntiqueWhite	|(250 235 215)	|# FAEBD7                  |
+AntiqueWhite1	|(255 239 219)	|# FFEFDB                  |
+AntiqueWhite2	|(238 223 204)	|# EEDFCC                  |
+AntiqueWhite3	|(205 192 176)	|# CDC0B0                  |
+AntiqueWhite4	|(139 131 120)	|# 8B8378                  |
+Bisque1	|(255 228 196)	|# FFE4C4                  |
+Bisque2	|(238 213 183)	|# EED5B7                  |
+Bisque3	|(205 183 158)	|# CDB79E                  |
+Bisque4	|(139 125 107)	|# 8B7D6B                  |
+PeachPuff1	|(255 218 185)	|# FFDAB9                  |
+PeachPuff2	|(238 203 173)	|# EECBAD                  |
+PeachPuff3	|(205 175 149)	|# CDAF95                  |
+PeachPuff4	|(139 119 101)	|# 8B7765                  |
+NavajoWhite1	|(255 222 173)	|# FFDEAD                  |
+NavajoWhite2	|(238 207 161)	|# EECFA1                  |
+NavajoWhite3	|(205 179 139)	|# CDB38B                  |
+NavajoWhite4	|(139 121 94)	|# 8B795E                  |
+LemonChiffon1	|(255 250 205)	|# FFFACD                  |
+LemonChiffon2	|(238 233 191)	|# EEE9BF                  |
+LemonChiffon3	|(205 201 165)	|# CDC9A5                  |
+LemonChiffon4	|(139 137 112)	|# 8B8970                  |
+Cornsilk1	|(255 248 220)	|# FFF8DC                  |
+Cornsilk2	|(238 232 205)	|# EEE8CD                  |
+Cornsilk3	|(205 200 177)	|# CDC8B1                  |
+Cornsilk4	|(139 136 120)	|# 8B8878                  |
+Ivory1	|(255 255 240)	|# FFFFF0                  |
+Ivory2	|(238 238 224)	|# EEEEE0                  |
+Ivory3	|(205 205 193)	|# CDCDC1                  |
+Ivory4	|(139 139 131)	|# 8B8B83                  |
+MintCream	|(245 255 250)	|# F5FFFA                  |
+Honeydew1	|(240 255 240)	|# F0FFF0                  |
+Honeydew2	|(224 238 224)	|# E0EEE0                  |
+Honeydew3	|(193 205 193)	|# C1CDC1                  |
+Honeydew4	|(131 139 131)	|# 838B83                  |
+LavenderBlush1	|(255 240 245)	|# FFF0F5                  |
+LavenderBlush2	|(238 224 229)	|# EEE0E5                  |
+LavenderBlush3	|(205 193 197)	|# CDC1C5                  |
+LavenderBlush4	|(139 131 134)	|# 8B8386                  |
+Lavender	|(230 230 250)	|# E6E6FA                  |
+MistyRose1	|(255 228 225)	|# FFE4E1                  |
+MistyRose2	|(238 213 210)	|# EED5D2                  |
+MistyRose3	|(205 183 181)	|# CDB7B5                  |
+MistyRose4	|(139 125 123)	|# 8B7D7B                  |
+Azure1	|(240 255 255)	|# F0FFFF                  |
+Azure2	|(224 238 238)	|# E0EEEE                  |
+Azure3	|(193 205 205)	|# C1CDCD                  |
+Azure4	|(131 139 139)	|# 838B8B                  |
+AliceBlue	|(240 248 255)	|# F0F8FF                  |
+LightSlateBlue	|(132 112 255)	|# 8470FF                  |
+MediumSlateBlue	|(123 104 238)	|# 7B68EE                  |
+SlateBlue	|(106 90 205)	|# 6A5ACD                  |
+SlateBlue1	|(131 111 255)	|# 836FFF                  |
+SlateBlue2	|(122 103 238)	|# 7A67EE                  |
+SlateBlue3	|(105 89 205)	|# 6959CDv                  |
+SlateBlue4	|(71 60 139)	|# 473C8B                  |
+DarkSlateBlue	|(72 61 139)	|# 483D8B                  |
+RoyalBlue	|(65 105 225) |# 4169E1                  |
+RoyalBlue1	|(72 118 255)	|# 4876FF                  |
+RoyalBlue2	|(67 110 238)	|# 436EEE                  |
+RoyalBlue3	|(58 95 205)	|# 3A5FCD                  |
+RoyalBlue4	|(39 64 139)	|# 27408B                  |
+Blue1	|(0 0 255)	|# 0000FF                  |
+Blue2	|(0 0 238)	|# 0000EE                  |
 DarkBlue	(0 0 139)	# 00008B
 NavyBlue	(0 0 128)	# 000080
 MidnightBlue	(25 25 112)	# 191970
