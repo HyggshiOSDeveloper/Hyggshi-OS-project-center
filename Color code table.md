@@ -29,13 +29,13 @@ DarkSlateGray1	|(151 255 255)	|#97FFFF          |
 DarkSlateGray2	|(141 238 238)	|#8DEEEE          |
 DarkSlateGray3	|(121 205 205)	|#79CDCD          |
 DarkSlateGray4	|(82 139 139)	|#528B8B          |
-PaleGoldenrod	(238 232 170)	#EEE8AA            |
-FloralWhite	(255 250 240)	#FFFAF0              |
-LightGoldenrodYellow	(250 250 210)	#FAFAD2    |
-SaddleBrown	(139 69 19)	#8B4513                |
-Sienna	(160 82 45)	#A0522D                    |
-OldLace	(253 245 230)	#FDF5E6                  |
-Linen	(250 240 230)	# FAF0E6
+PaleGoldenrod	|(238 232 170)	|#EEE8AA            |
+FloralWhite	|(255 250 240)	|#FFFAF0              |
+LightGoldenrodYellow	|(250 250 210)	|#FAFAD2    |
+SaddleBrown	|(139 69 19)	|#8B4513                |
+Sienna	|(160 82 45)	|#A0522D                    |
+OldLace	|(253 245 230)	|#FDF5E6                  |
+Linen	|(250 240 230)	|# FAF0E6                   |
 PapayaWhip	(255 239 213)	# FFEFD5
 BlanchedAlmond	(255 235 205)	# FFEBCD
 Moccasin	(255 228 181)	# FFE4B5
