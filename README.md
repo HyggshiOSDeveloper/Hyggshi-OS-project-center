@@ -4,7 +4,6 @@
 
 [![GitHub All Releases](https://img.shields.io/github/downloads/HyggshiOSDeveloper/Hyggshi-OS-project-center/total.svg)](https://github.com/HyggshiOSDeveloper/Hyggshi-OS-project-center/releases)
 
-![Banner](https://github.com/HyggshiOSDeveloper/Hyggshi-OS-project-center/blob/main/logo.png)
 
 Hyggshi OS Developer is a mini operating system development project based on Roblox Studio. The goal is to provide a unique interface and functionality for users.
 
