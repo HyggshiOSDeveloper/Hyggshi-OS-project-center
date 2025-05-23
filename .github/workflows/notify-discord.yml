@@ -27,4 +27,8 @@ jobs:
               },
               "timestamp": "${{ github.event.release.published_at }}"
             }]
+<<<<<<< HEAD
           }'
+=======
+          }'
+>>>>>>> 815057501b0c8ee22b25517e3214e73379a8d3b6
