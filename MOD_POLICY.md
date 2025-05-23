@@ -1,70 +1,47 @@
-# 🔧 Mod Permission Policy – Hyggshi OS Project
+🔧 Mod Permission Policy – Hyggshi OS Project
+Version: 1.0 Date of issue: [24/5/2025 SA] Original author: Nguyen Minh Phuc
 
-**Version:** 1.0
-**Date of issue:** [Update date if necessary]
-**Original author:** Nguyen Minh Phuc
+1. 🎯 Objective
+This policy allows the Roblox community and users who love the Hyggshi OS project to edit (mod), redevelop or expand the project after the project is officially discontinued or the source code is made public.
 
----
-
-## 1. 🎯 Objective
-
-This policy allows the Roblox community and users who love the **Hyggshi OS** project to edit (mod), redevelop or expand the project after the project is officially discontinued or the source code is made public.
-
----
-
-## 2. ✅ Scope of permission
-
+2. ✅ Scope of permission
 You are allowed to:
 
-- Create mods or redeveloped versions based on Hyggshi OS.
+Create mods or redeveloped versions based on Hyggshi OS.
 
-- Use original resources such as interface, icons, Lua code, sounds... if they have been shared publicly.
+Use original resources such as interface, icons, Lua code, sounds... if they have been shared publicly.
 
-- Release the mod for FREE on Roblox, GitHub or other platforms.
+Release the mod for FREE on Roblox, GitHub or other platforms.
 
----
+3. ❌ What's Not Allowed
+You MAY NOT:
 
-## 3. ❌ What's Not Allowed
+Sell or charge for the mod without written permission from Nguyen Minh Phuc.
 
-You **MAY NOT**:
+Claim that you are the original creator.
 
-- Sell or charge for the mod without written permission from Nguyen Minh Phuc.
+Remove or replace the credits in the interface or source code.
 
-- Claim that you are the original creator.
+Reuse Hyggshi OS resources in unrelated projects without permission.
 
-- Remove or replace the credits in the interface or source code.
-
-- Reuse Hyggshi OS resources in unrelated projects without permission.
-
----
-
-## 4. 🏷️ Attribution Required
-
+4. 🏷️ Attribution Required
 All mods must include the following note:
 
-> "Based on Nguyen Minh Phuc's Hyggshi OS project. Mod version by [Your name or group of friends]."
+"Based on Nguyen Minh Phuc's Hyggshi OS project. Mod version by [Your name or group of friends]."
 
----
+5. ⚖️ Legal Limitations
+The original author is NOT responsible for errors, damages, or violations related to third-party mods.
 
-## 5. ⚖️ Legal Limitations
+Mods must comply with Roblox's terms of service and applicable laws.
 
-- The original author is NOT responsible for errors, damages, or violations related to third-party mods.
-
-- Mods must comply with Roblox's terms of service and applicable laws.
-
----
-
-## 6. 📬 Contact for commercial licensing
-
+6. 📬 Contact for commercial licensing
 If you want to apply for commercial rights or expand cooperation:
-- Contact: [Add your email or Roblox/Discord account]
 
----
-
-## 7. 🗓️ Effective
-
-The policy is effective from [dd/mm/yyyy] and may be updated in the future.
-
----
+Contact: [
+User Roblox: Hyggshi/rbtfjt
+User Discord: @hyggshi
+Gmail: hyggshidev@gmail.com]
+7. 🗓️ Effective
+The policy is effective from [24/5/2025 SA] and may be updated in the future.
 
 © 2025 Nguyen Minh Phuc. All rights reserved.
