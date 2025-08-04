@@ -23,9 +23,9 @@ Integrated screen timeout feature.
 
 This product does not violate Roblox or third party standards and is an unofficial product. It is not released by any professional team or organization. Some ideas are based on Windows, real OS or other operating systems, including in-game. The idea and scenario started in 2023. At the moment, the project has the following versions:
 
-Hyggshi OS 1.3 New Update
+Hyggshi OS 1.3
 
-Hyggshi OS 2.1
+Hyggshi OS 2.1.5 (2.1.6)
 
 Hyggshi OS Developer
 
