@@ -2,7 +2,7 @@
 
 ![Hyggshi OS](logo.png)
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/HyggshiOSDeveloper/Hyggshi-OS-project-center/total.svg)](https://github.com/HyggshiOSDeveloper/Hyggshi-OS-project-center/releases) ![Static Badge](https://img.shields.io/badge/build-new%20operating%20system-brightgreen)
+[![GitHub All Releases](https://img.shields.io/github/downloads/HyggshiOSDeveloper/Hyggshi-OS-project-center/total.svg)](https://github.com/HyggshiOSDeveloper/Hyggshi-OS-project-center/releases) ![Static Badge](https://img.shields.io/badge/build-new%20operating%20system-brightgreen) ![Static Badge](https://img.shields.io/badge/build-1.3%20Low-red) 
 
 
 
