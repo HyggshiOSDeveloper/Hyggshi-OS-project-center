@@ -27,13 +27,6 @@ Hyggshi OS Developer is a mini operating system development project based on Rob
 
 This product does not violate Roblox or third party standards and is an unofficial product. It is not released by any professional team or organization. Some ideas are based on Windows, real OS, or other operating systems, including in-game. The idea and scenario started in 2023. At the moment, the project has the following versions:
 
-<<<<<<< HEAD
-- Hyggshi OS 1.3 New Update
-- Hyggshi OS 2.1.6
-- Hyggshi OS Developer
-- Hyggshi OS operating system center
-- Hyggshi OS 1.5 Pro
-=======
 Hyggshi OS 1.3
 
 Hyggshi OS 2.1.5 (2.1.6)
@@ -43,6 +36,5 @@ Hyggshi OS Developer
 Hyggshi OS operating system center
 
 Hyggshi OS 1.5 Pro
->>>>>>> 506bebff5c32934c59b71938fbc5c092e130043e
 
 > ⚠️ *Note: GitHub says this project is 98.8% written in Luau, but that's a slight deception. Don't believe everything you see in the green bar!*
