@@ -15,20 +15,17 @@ jobs:
           curl -X POST "$DISCORD_WEBHOOK" \
           -H "Content-Type: application/json" \
           -d '{
+            "content": "@everyone 📢 **Có bản phát hành mới cho Hyggshi OS!**",
             "username": "Hyggshi Bot",
             "avatar_url": "https://i.imgur.com/GD0Rvy4.png",
             "embeds": [{
-              "title": "📦 New Release: ${{ github.event.release.tag_name }}",
+              "title": "📦 Release: ${{ github.event.release.tag_name }}",
               "description": "${{ github.event.release.body }}",
               "url": "${{ github.event.release.html_url }}",
-              "color": 3066993,
+              "color": 16711680,
               "footer": {
                 "text": "Hyggshi OS Project Center"
               },
               "timestamp": "${{ github.event.release.published_at }}"
             }]
-<<<<<<< HEAD
           }'
-=======
-          }'
->>>>>>> 815057501b0c8ee22b25517e3214e73379a8d3b6
