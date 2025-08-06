@@ -37,6 +37,4 @@ Hyggshi OS operating system center
 
 Hyggshi OS 1.5 Pro
 
-> ⚠️ *Note: GitHub says this project is 98.8% written in Luau, but that's a slight deception. Don't believe everything you see in the green bar!*
-
-> ![Hyggshi OS](Image(2).png)
+> ⚠️ *Note: GitHub says this project is 98.8% written in Luau, but that's a slight deception. Don't believe everything you see in the green bar!* ![Hyggshi OS](Image(2).png)
