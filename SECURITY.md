@@ -10,7 +10,7 @@ We actively maintain security updates for the following versions of Hyggshi OS D
 | 1.5 Pro   | ❌ (No Longer Supported) |
 | Unknown  | ✅ (Limited Support) |
 | Unknown   | ❌ (End of Life) |
-| 7.5.0 Dev   | ✅ (Active support) |
+| 8.7.6 Dev   | ✅ (Active support) |
 | V B2H15 1.1   | ✅ (Supported but it's slower) |
 
 ## 🛡️ Reporting a Vulnerability
