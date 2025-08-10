@@ -1,4 +1,4 @@
-# Hyggshi OS Developer
+# Hyggshi OS project center
 
 ![Hyggshi OS](logo.png)
 
