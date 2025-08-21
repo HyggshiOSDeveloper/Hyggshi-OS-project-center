@@ -36,6 +36,8 @@ You **MAY NOT**:
 
 - Reuse Hyggshi OS resources in unrelated projects without permission.
 
+- Changing the author's name to another name is considered a violation of HOSDOS policy.
+
 ---
 
 ## 4. 🏷️ Attribution Required
