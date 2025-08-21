@@ -1,47 +1,87 @@
-📘 Hyggshi OS Developer Platform Development Orientation Statement
-Author: Nguyen Minh Phuc
-Project name: Hyggshi OS Developer Platform
+# 📘 Hyggshi OS Developer Platform – Development Orientation
 
-1. 🎯 Core objectives
-Hyggshi OS Developer Platform was created not to compete, but to inspire. The project aims to recreate the experience of a virtual operating system that is fun, highly interactive, creative and has a unique style, helping developers and users create new and interesting applications in an open and accessible environment.
+**Author:** Nguyen Minh Phuc
+**Project Name:** Hyggshi OS Developer Platform
 
-2. 💡 Development philosophy
-Freedom of creation: Users and developers can freely create and experiment, without being limited by rigid rules.
+---
 
-Not following trends: Hyggshi OS will not be dominated by trendy trends, but will always maintain its own identity.
+## 1. 🎯 Core Objectives
 
-Focus on experience: Hyggshi OS will always aim for ease of use, friendly interface and high interactivity.
+The Hyggshi OS Developer Platform is not built to compete, but to **inspire**.
 
-3. 🚫 What Hyggshi OS will not do
-Not become a paid platform: Hyggshi OS will not apply the pay-to-win model or force users to pay for basic features.
+The project aims to redefine the experience of a **virtual operating system**:
 
-Not copy real operating systems: Although called an “OS”, Hyggshi OS will not emulate real operating systems but will keep a distinct character.
+* Fun and highly interactive
+* Creative with a unique style
+* Open and accessible, empowering both developers and users to create interesting applications
 
-No advertising and user data collection: Hyggshi OS will not contain advertising and will not collect user data without explicit consent.
+---
 
-We do not allow changing the author's name. It is always our top priority to protect the brand and author's name.
+## 2. 💡 Development Philosophy
 
-4. 🧠 Community vision
-Hyggshi OS is not just an operating system, but a community where users can share, learn and create. Each member of the community is an important part in the development and completion of this operating system.
+* **Freedom to Create**: Developers and users are free to create and experiment without rigid limitations.
 
-Collaboration and Support: Hyggshi OS will create an open space for the community to develop new tools, games, applications and features.
+* **Independent Identity**: Hyggshi OS will not blindly follow the latest trends, but instead maintain its own identity.
 
-5. 🛡️ When there are offers to acquire or cooperate
-Ensure independence: Hyggshi OS will never sell or transfer ownership without ensuring that the core principles of the project are maintained.
+* **User-Centered Experience**: Prioritizing ease of use, friendly interface, and high interactivity.
 
-Selective cooperation: Only cooperate with partners who respect the project's vision and do not interfere with the development direction of Hyggshi OS.
+---
 
-6. 🔥 The legacy that Hyggshi OS wants to leave
-Hyggshi OS will be a legacy of creativity, freedom and innovation. The project will be a platform for developers and users to create valuable products together, promote progress and share within the community.
+## 3. 🚫 What Hyggshi OS doesn't do
 
-💡 Conclusion
-Hyggshi OS Developer Platform is not just a software project, but a mission to create a strong, creative and sustainable development ecosystem. The project will not follow the market or trends but focus on building a free, friendly and collaborative platform. Let's build the future of Hyggshi OS together!
+* **No pay-to-win**: Basic features will never be locked after payment.
 
-🌟 Contact information:
-Website: https://sites.google.com/view/hyggshi-os/trang-ch%E1%BB%A7
+* **No system cloning**: Hyggshi OS is inspired by the concept of operating systems but will not clone actual operating systems.
 
-GitHub: Hyggshi OS Project
+* **No advertising or forced data collection**: User privacy and trust are fundamental. Data will only be collected with explicit consent.
 
-Email: hyggshidev@gmail.com
+🔒 **Brand and author protection**:
 
-Last updated at 8:41 AM on August 31, 2025
+* Author names cannot be changed under any circumstances.
+* Creating policies or actions that are harmful or anti-brand is a violation of **HOSDOS Policy**, which may result in penalties including repository deletion or legal liability.
+
+---
+## 4. 🧠 Community Vision
+
+Hyggshi OS is more than just an operating system — it is a **community platform** where people can share, learn, and create.
+
+* **Collaboration & Support**: Building an open environment for new tools, games, apps, and features.
+
+* **Collective Development**: Every member contributes to the development and improvement of the project.
+
+---
+
+## 5. 🛡️ About Buyback or Partnership Offers
+
+* **Independence First**: Ownership will never be sold or transferred without ensuring the principles of the project are maintained.
+* **Selective Partnerships**: Only work with partners who respect the vision of Hyggshi OS and do not interfere with the direction of the project.
+
+---
+
+## 6. 🔥 The Legacy of Hyggshi OS
+
+Hyggshi OS aspires to be a **legacy of creativity, freedom and innovation**.
+
+The platform will serve as a platform for developers and users to:
+
+* Co-create valuable products
+* Promote technological progress
+* Build a sustainable, collaborative ecosystem
+
+---
+
+## 💡 Conclusion
+
+The Hyggshi OS Developer Platform is more than software — it is a **mission**.
+
+The platform's goal is to build a **free, friendly and collaborative ecosystem** where creativity thrives beyond market pressures or fads.
+
+✨ Together, let's build the future of Hyggshi OS.
+
+---
+
+## 🌟 Contact information
+
+* **Website:** [Hyggshi OS official website](https://sites.google.com/view/hyggshi-os/trang-ch%E1%BB%A7)
+* **GitHub:** Hyggshi OS project
+* **Email:** [hyggshidev@gmail.com](mailto:hyggshidev@gmail.com)
