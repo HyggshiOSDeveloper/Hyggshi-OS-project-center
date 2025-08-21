@@ -19,6 +19,8 @@ Not copy real operating systems: Although called an “OS”, Hyggshi OS will no
 
 No advertising and user data collection: Hyggshi OS will not contain advertising and will not collect user data without explicit consent.
 
+We do not allow changing the author's name. It is always our top priority to protect the brand and author's name.
+
 4. 🧠 Community vision
 Hyggshi OS is not just an operating system, but a community where users can share, learn and create. Each member of the community is an important part in the development and completion of this operating system.
 
@@ -41,3 +43,5 @@ Website: https://sites.google.com/view/hyggshi-os/trang-ch%E1%BB%A7
 GitHub: Hyggshi OS Project
 
 Email: hyggshidev@gmail.com
+
+Last updated at 8:41 AM on August 31, 2025
