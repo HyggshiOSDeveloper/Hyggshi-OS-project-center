@@ -27,7 +27,7 @@ The project aims to redefine the experience of a **virtual operating system**:
 
 ---
 
-## 3. 🚫 What Hyggshi OS doesn't do
+## 3. 🚫 What Hyggshi OS doesn't let you do
 
 * **No pay-to-win**: Basic features will never be locked after payment.
 
