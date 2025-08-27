@@ -36,6 +36,8 @@ You **MAY NOT**:
 
 - Reuse Hyggshi OS resources in unrelated projects without permission.
 
+- Changing the author's name to another name is considered a violation of HOSDOS policy.
+
 ---
 
 ## 4. 🏷️ Attribution Required
@@ -70,3 +72,5 @@ The policy is effective from [24/5/2025 SA] and may be updated in the future.
 ---
 
 © 2025 Nguyen Minh Phuc. All rights reserved.
+
+Last updated 8:39 AM August 31, 2025
