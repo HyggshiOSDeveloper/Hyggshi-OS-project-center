@@ -29,7 +29,7 @@ This product does not violate Roblox or third party standards and is an unoffici
 
 Hyggshi OS 1.3
 
-Hyggshi OS 2.1.5 (2.1.6)
+Hyggshi OS 2.1.7
 
 Hyggshi OS Developer
 
