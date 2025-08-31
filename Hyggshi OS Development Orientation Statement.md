@@ -25,7 +25,6 @@ The project aims to redefine the experience of a **virtual operating system**:
 
 * **User-Centered Experience**: Prioritizing ease of use, friendly interface, and high interactivity.
 
-* **Do not use Hyggshi OS unlicensed projects**: 
 
 ---
 
@@ -41,6 +40,8 @@ The project aims to redefine the experience of a **virtual operating system**:
 
 * Author names cannot be changed under any circumstances.
 * Creating policies or actions that are harmful or anti-brand is a violation of **HOSDOS Policy**, which may result in penalties including repository deletion or legal liability.
+
+* **Do not use Hyggshi OS unlicensed projects**: Use of the Hyggshi OS project is clearly marked as closed source. is strictly prohibited. unauthorized use. If you knowingly violate this policy, you may be in violation. may result in penalties including repository deletion or legal liability
 
 ---
 ## 4. 🧠 Community Vision
