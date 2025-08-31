@@ -38,6 +38,8 @@ You **MAY NOT**:
 
 - Changing the author's name to another name is considered a violation of HOSDOS policy.
 
+- Use of the Hyggshi OS project is clearly marked as closed source. Strictly prohibited. If you intentionally violate, you may violate HOSDOS policy.
+
 ---
 
 ## 4. 🏷️ Attribution Required
