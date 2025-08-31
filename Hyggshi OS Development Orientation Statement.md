@@ -25,6 +25,8 @@ The project aims to redefine the experience of a **virtual operating system**:
 
 * **User-Centered Experience**: Prioritizing ease of use, friendly interface, and high interactivity.
 
+* **Do not use Hyggshi OS unlicensed projects**: 
+
 ---
 
 ## 3. 🚫 What Hyggshi OS doesn't let you do
@@ -35,7 +37,7 @@ The project aims to redefine the experience of a **virtual operating system**:
 
 * **No advertising or forced data collection**: User privacy and trust are fundamental. Data will only be collected with explicit consent.
 
-🔒 **Brand and author protection**:
+🔒 **Brand and author protection**: Use of the Hyggshi OS project is clearly marked as closed source. is strictly prohibited. unauthorised use. If you intentionally violate this policy, you may be in violation. may result in penalties including repository deletion or legal liability
 
 * Author names cannot be changed under any circumstances.
 * Creating policies or actions that are harmful or anti-brand is a violation of **HOSDOS Policy**, which may result in penalties including repository deletion or legal liability.
