@@ -75,4 +75,4 @@ The policy is effective from [24/5/2025 SA] and may be updated in the future.
 
 © 2025 Nguyen Minh Phuc. All rights reserved.
 
-Last updated 8:39 AM August 31, 2025
+Last updated 11:43 AM August 31, 2025
