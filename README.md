@@ -29,13 +29,15 @@ This product does not violate Roblox or third party standards and is an unoffici
 
 Hyggshi OS 1.3
 
-Hyggshi OS 2.1.5 (2.1.6)
+Hyggshi OS 2.1.6
 
 Hyggshi OS Developer
 
 Hyggshi OS operating system center
 
 Hyggshi OS 1.5 Pro
+
+Hyggshi OS Flex Dev
 
 > ⚠️ *Note: GitHub says this project is 98.8% written in Luau, but that's a slight deception. Don't believe everything you see in the green bar!*
 > ![Hyggshi OS](Image(2).png)
