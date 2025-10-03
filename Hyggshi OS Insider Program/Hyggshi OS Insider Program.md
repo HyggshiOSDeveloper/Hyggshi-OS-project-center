@@ -6,7 +6,7 @@
 
 Please enter your name below and select the channel you wish to join:
 
-| Name or (name Roblox)                | Channel        | Notes                |
+| Name or (name Roblox) and mail       | Channel        | Notes                |
 |--------------------------------------|----------------|----------------------|
 | *Your Name Here*                     | Beta / Build / Teasers |              |
 
