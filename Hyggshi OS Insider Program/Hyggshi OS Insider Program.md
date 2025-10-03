@@ -8,7 +8,7 @@ Please enter your name below and select the channel you wish to join:
 
 | Name or (name Roblox)                | Channel        | Notes                |
 |--------------------------------------|----------------|----------------------|
-| *Your Name Here*                     | Beta / Build / Teasers |              |
+| (User Roblox: rbtfjt)                | Developer      |Access to developer tools and APIs.|
 
 **Channels:**
 - **Beta:** Early access to stable features.
