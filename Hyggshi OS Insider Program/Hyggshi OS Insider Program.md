@@ -4,11 +4,12 @@
 
 ## Welcome to the Hyggshi OS Insider Program Participants
 
-Please enter your name below and select the channel you wish to join:
+Please enter your name, email, and select up to two channels you wish to join:
 
-| Name or (name Roblox) and mail       | Channel        | Notes                |
-|--------------------------------------|----------------|----------------------|
-| *Your Name Here*                     | Beta / Build / Teasers |              |
+| Name or (name Roblox) | Email                | Channel(s)                  | Notes                |
+|-----------------------|----------------------|-----------------------------|----------------------|
+| *Your Name Here*      | *your@email.com*     | Beta / Build / Teasers      |                      |
+
 
 **Channels:**
 - **Beta:** Early access to stable features.
