@@ -2,7 +2,7 @@
 --                                COMPONENT INFORMATION                                
 -- =====================================================================================
 -- Script Name: hide system roblox studio.lua
--- Purpose    : Kicks players from the game if they are listed in the bannedPlayers table.
+-- Purpose    :
 -- Script Type: LocalScript (must be placed in StarterGui)
 -- Author     : HyggshiOSDeveloper
 -- Email      : hyggshidev@gmail.com
