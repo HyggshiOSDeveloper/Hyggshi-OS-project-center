@@ -40,6 +40,8 @@ You **MAY NOT**:
 
 - Use of the Hyggshi OS project is clearly marked as closed source. Strictly prohibited. If you intentionally violate, you may violate HOSDOS policy.
 
+- using projects like Hyggshi OS Engine still in beta. but if you keep taking it without crediting the author and making it public. can be banned from the start
+
 ---
 
 ## 4. 🏷️ Attribution Required
