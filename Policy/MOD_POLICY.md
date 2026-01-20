@@ -1,18 +1,18 @@
-# 🔧 Mod Permission Policy – Hyggshi OS Project
+# Mod Permission Policy – Hyggshi OS Project
 
 **Version:** 1.0
-**Date of issue:** [06/12/2025 SA]
+**Date of issue:** [20/01/2026 SA]
 **Original author:** Nguyen Minh Phuc
 
 ---
 
-## 1. 🎯 Objective
+## 1. Objective
 
 This policy allows the Roblox community and users who love the **Hyggshi OS** project to edit (mod), redevelop or expand the project after the project is officially discontinued or the source code is made public.
 
 ---
 
-## 2. ✅ Scope of permission
+## 2. Scope of permission
 
 You are allowed to:
 
@@ -24,7 +24,7 @@ You are allowed to:
 
 ---
 
-## 3. ❌ What's Not Allowed
+## 3. What's Not Allowed
 
 You **MAY NOT**:
 
@@ -44,7 +44,40 @@ You **MAY NOT**:
 
 ---
 
-## 4. 🏷️ Attribution Required
+### 3.1 Additional Code of Use – Tool Usage & Anti-Discrimination
+
+**Reference ID:** `124657-HLWORD-VIHJVN-2026`
+
+You **MAY NOT**:
+
+* Harass, mock, or discredit any contributor or user based on the **tools, assistants, or technologies** they use, including automated or AI-assisted tools.
+
+* Claim, imply, or suggest that the use of tools makes a contribution **invalid, inferior, or illegitimate**.
+
+* Engage in **type-based discrimination**, including but not limited to discrimination based on:
+
+  * Development method
+  * Tooling choice
+  * Automation level
+  * Writing style or assistance method
+
+* Use historical, outdated, or exclusionary reasoning models (e.g. *pre-modern or legacy discrimination mindsets*) to justify harassment or unequal treatment.
+
+* Repeatedly accuse, label, or speculate about a person’s tool usage in a way that is **non-constructive, demeaning, or disruptive**.
+
+> Transparency refers to **process and intent**, not forced disclosure of personal tools.
+> Tool usage alone is **not grounds for harassment or exclusion**.
+
+Violations of this section may result in:
+
+* Warnings
+* Message removal
+* Temporary or permanent bans
+  at the discretion of moderators or project administrators.
+
+---
+
+## 4. Attribution Required
 
 All mods must include the following note:
 
@@ -52,7 +85,7 @@ All mods must include the following note:
 
 ---
 
-## 5. ⚖️ Legal Limitations
+## 5. Legal Limitations
 
 - The original author is NOT responsible for errors, damages, or violations related to third-party mods.
 
@@ -60,7 +93,7 @@ All mods must include the following note:
 
 ---
 
-## 6. 📬 Contact for commercial licensing
+## 6. Contact for commercial licensing
 
 If you want to apply for commercial rights or expand cooperation:
 - Contact: [User Roblox: Hyggshi/rbtfjt
@@ -69,7 +102,7 @@ Gmail: hyggshidev@gmail.com]
 
 ---
 
-## 7. 🗓️ Effective
+## 7. Effective
 
 The policy is effective from [24/5/2025 SA] and may be updated in the future.
 
@@ -77,4 +110,4 @@ The policy is effective from [24/5/2025 SA] and may be updated in the future.
 
 © 2025 Nguyen Minh Phuc. All rights reserved.
 
-Last updated 11:43 AM August 31, 2025
+Last updated 06:36 PM January 20, 2026
