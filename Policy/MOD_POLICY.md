@@ -1,6 +1,6 @@
 # Mod Permission Policy – Hyggshi OS Project
 
-**Version:** 1.0
+**Version:** 1.3
 **Date of issue:** [20/01/2026 SA]
 **Original author:** Nguyen Minh Phuc
 
