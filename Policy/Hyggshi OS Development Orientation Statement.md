@@ -1,11 +1,11 @@
-# 📘 Hyggshi OS Developer Platform – Development Orientation Statement (HOSDOS)
+# Hyggshi OS Developer Platform – Development Orientation Statement (HOSDOS)
 
 **Author:** Nguyen Minh Phuc
 **Project Name:** Hyggshi OS Developer Platform
 
 ---
 
-## 1. 🎯 Core Objectives
+## 1. Core Objectives
 
 Hyggshi OS Developer Platform is **not built to compete, but to inspire.**
 
@@ -16,7 +16,7 @@ Hyggshi OS Developer Platform is **not built to compete, but to inspire.**
 
 ---
 
-## 2. 💡 Development Philosophy
+## 2. Development Philosophy
 
 * **Freedom to Create**: Developers and users are free to create and experiment without rigid limitations.
 * **Independent Identity**: Hyggshi OS does not blindly follow trends, but maintains its own identity.
@@ -24,13 +24,13 @@ Hyggshi OS Developer Platform is **not built to compete, but to inspire.**
 
 ---
 
-## 3. 🚫 Restrictions (What Hyggshi OS does not allow)
+## 3. Restrictions (What Hyggshi OS does not allow)
 
 * **No Pay-to-Win**: Basic features will never be locked behind payment.
 * **No System Cloning**: Inspired by real operating systems, but will not fully clone them.
 * **No Advertising / Forced Data Collection**: Privacy and trust are fundamental.
 
-🔒 **Brand & Author Protection**
+**Brand & Author Protection**
 
 * Author names cannot be changed.
 * Anti-brand actions or harmful policies violate the HOSDOS policy and may result in repository deletion or liability.
@@ -38,7 +38,7 @@ Hyggshi OS Developer Platform is **not built to compete, but to inspire.**
 
 ---
 
-## 4. 🧠 Community Vision
+## 4. Community Vision
 
 Hyggshi OS is more than just an OS — it is a **community platform**.
 
@@ -47,14 +47,14 @@ Hyggshi OS is more than just an OS — it is a **community platform**.
 
 ---
 
-## 5. 🛡️ Buyback or Partnership
+## 5. Buyback or Partnership
 
 * **Independence First**: Ownership will never be sold or transferred without preserving principles.
 * **Selective Partnerships**: Only with partners who respect Hyggshi OS vision.
 
 ---
 
-## 6. 🔥 Legacy of Hyggshi OS
+## 6. Legacy of Hyggshi OS
 
 Hyggshi OS aims to be a legacy of **creativity, freedom, and innovation.**
 
@@ -64,15 +64,15 @@ Hyggshi OS aims to be a legacy of **creativity, freedom, and innovation.**
 
 ---
 
-## 💡 Conclusion
+## Conclusion
 
 Hyggshi OS Developer Platform is more than software — it is a **mission.**
 
-✨ Together, let's build the future of Hyggshi OS.
+Together, let's build the future of Hyggshi OS.
 
 ---
 
-## 🌟 Contact information
+## Contact information
 
 * **Website:** [Hyggshi OS official website](https://sites.google.com/view/hyggshi-os/trang-ch%E1%BB%A7)
 * **GitHub:** Hyggshi OS project
