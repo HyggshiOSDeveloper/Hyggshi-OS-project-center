@@ -1,7 +1,7 @@
 # Mod Permission Policy – Hyggshi OS Project
 
-**Version:** 1.3
-**Date of issue:** [20/01/2026 SA]
+**Version:** 1.4
+**Date of issue:** [27/01/2026 SA]
 **Original author:** Nguyen Minh Phuc
 
 ---
@@ -76,6 +76,59 @@ Violations of this section may result in:
   at the discretion of moderators or project administrators.
 
 ---
+### 3.2 Trademark & Name Usage Protection
+
+**Reference ID:** 'User-36079-GLABTAB-2026'
+
+You MAY NOT:
+
+Use the name “Hyggshi”, “Hyggshi OS”, or any derivative, suffix, prefix, or combined form containing the word Hyggshi in:
+
+- Project names
+
+- Product titles
+
+- Group or organization names
+
+- Branding, logos, identifiers
+
+- Public releases, marketing, or promotional materials
+
+without explicit written permission from the original author (Nguyen Minh Phuc).
+
+Register, publish, or distribute any project that may cause confusion, misrepresentation, or false association with the official Hyggshi OS project.
+
+Imply, suggest, or claim official affiliation, endorsement, ownership, or authorization related to the Hyggshi name or brand without approval.
+
+Use the Hyggshi name or any modified form of it in a manner that constitutes:
+
+Personal trademark infringement
+
+Organizational trademark infringement
+
+Identity impersonation
+
+Brand misuse or reputation abuse
+
+Any unauthorized use of the name Hyggshi or its combined forms is considered a violation of personal and organizational trademark rights.
+
+Enforcement
+
+Violations of this section may result in:
+
+Mandatory renaming or content removal
+
+Project takedown requests
+
+Public notice of violation
+
+Blacklisting from the Hyggshi OS ecosystem
+
+Reporting to relevant platforms (Roblox, GitHub, Discord, etc.)
+
+Additional enforcement under HOSDOS policy, if applicable
+
+---
 
 ## 4. Attribution Required
 
@@ -110,4 +163,4 @@ The policy is effective from [24/5/2025 SA] and may be updated in the future.
 
 © 2025 Nguyen Minh Phuc. All rights reserved.
 
-Last updated 06:36 PM January 20, 2026
+Last updated 11:26 PM January 17, 2026
