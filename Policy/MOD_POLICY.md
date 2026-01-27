@@ -78,7 +78,7 @@ Violations of this section may result in:
 ---
 ### 3.2 Trademark & Name Usage Protection
 
-**Reference ID:** 'User-36079-GLABTAB-2026'
+**Reference ID:** `User-36079-GLABTAB-2026`
 
 You MAY NOT:
 
