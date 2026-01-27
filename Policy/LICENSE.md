@@ -17,4 +17,4 @@ Under the following terms:
 - No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 Full license text:
-https://creativecommons.org/licenses/by-nd/4.0/legalcode.txt
+https://creativecommons.org/licenses/by-nd/4.0/legalcode
