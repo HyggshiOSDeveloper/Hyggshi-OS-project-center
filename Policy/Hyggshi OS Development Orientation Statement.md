@@ -110,5 +110,3 @@ Email: [hyggshidev@gmail.com](mailto:hyggshidev@gmail.com)
 ---
 
 © 2024–2026 Nguyen Minh Phuc. All rights reserved.
-* LICENSE + MOD POLICY + HOSDOS thành bộ chuẩn hoàn chỉnh
-* giống cấu trúc project open source chuyên nghiệp thực sự.
