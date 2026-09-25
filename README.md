@@ -39,5 +39,5 @@ Hyggshi OS 1.5 Pro
 
 Hyggshi OS Flex Dev
 
-> ⚠️ *Note: GitHub says this project is 98.8% written in Luau, but that's a slight deception. Don't believe everything you see in the green bar!*
+> ⚠️ *Note: GitHub says this project is 96.8% written in Lua, but that's a slight deception. Don't believe everything you see in the green bar!*
 > ![Hyggshi OS](Image(2).png)
