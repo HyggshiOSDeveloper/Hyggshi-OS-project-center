@@ -1,165 +1,135 @@
 # Hyggshi OS – Mod & Community Usage Policy
-
-Version 2.0
-Last updated: February 23, 2026
+ 
+Version 2.1
+Last updated: November 22, 2026
 Author: Nguyen Minh Phuc
-
+ 
 ---
-
+ 
 ## 1. Purpose
-
+ 
 This policy explains how members of the Roblox and developer community may create mods or derivative versions of **Hyggshi OS** if:
-
+ 
 * The project is discontinued, or
 * The source code is publicly released.
-
-The goal is to encourage creativity while maintaining proper attribution and brand clarity.
-
+The goal is to encourage creativity while keeping attribution and branding clear.
+ 
+If a project in the Hyggshi OS ecosystem ships with its own license file, that license applies first. This policy covers anything the license does not address.
+ 
 ---
-
+ 
 ## 2. What You Are Allowed To Do
-
+ 
 If the source materials are publicly available, you may:
-
+ 
 * Create non-commercial mods or derivative versions.
 * Use publicly shared assets (UI, icons, Lua scripts, sounds, etc.).
 * Publish your mod for free on Roblox, GitHub, or similar platforms.
-
-This permission only applies to content that has been officially released or made public.
-
+This permission only applies to content that has been officially released or made public by the author.
+ 
 ---
-
+ 
 ## 3. Restrictions
-
+ 
 You may not:
-
+ 
 * Sell or monetize the mod without written permission.
 * Claim to be the original creator of Hyggshi OS.
 * Remove or alter author credits in the interface or source files.
 * Reuse Hyggshi OS assets in unrelated projects without permission.
 * Use closed-source builds or private beta components without authorization.
-
 Violations may result in moderation actions within official Hyggshi OS spaces.
-
-### 3.1 Additional Code of Use – Tool Usage & Anti-Discrimination
-
-**Reference ID:** `124657-HLWORD-VIHJVN-2026`
-
-You **MAY NOT**:
-
-- Harass, mock, or discredit any contributor or user based on the **tools, assistants, or technologies** they use, including automated or AI-assisted tools.
-- Claim, imply, or suggest that the use of tools makes a contribution **invalid, inferior, or illegitimate**.
-- Engage in **type-based discrimination**, including but not limited to discrimination based on:
-  - Development method
-  - Tooling choice
-  - Automation level
-  - Writing style or assistance method
-- Use historical, outdated, or exclusionary reasoning models (e.g. *pre-modern or legacy discrimination mindsets*) to justify harassment or unequal treatment.
-- Repeatedly accuse, label, or speculate about a person’s tool usage in a way that is **non-constructive, demeaning, or disruptive**.
-
-> Transparency refers to **process and intent**, not forced disclosure of personal tools.  
-> Tool usage alone is **not grounds for harassment or exclusion**.
-
-Violations of this section may result in:
-
-- Warnings
-- Message removal
-- Temporary or permanent bans  
-  at the discretion of moderators or project administrators.
-
----
-
-### 3.2 Trademark & Name Usage Protection
-
+ 
+### 3.1 Name & Trademark Protection
+ 
 **Reference ID:** `User-36079-GLABTAB-2026`
-
-You **MAY NOT**:
-
-- Use the name **“Hyggshi”**, **“Hyggshi OS”**, or any **derivative, suffix, prefix, or combined form** containing the word **Hyggshi** in:
-  - Project names
-  - Product titles
-  - Group or organization names
-  - Branding, logos, identifiers
-  - Public releases, marketing, or promotional materials
-
-  **without explicit written permission** from the original author (**Nguyen Minh Phuc**).
-
-- Register, publish, or distribute any project that may cause **confusion, misrepresentation, or false association** with the official Hyggshi OS project.
-
-- Imply, suggest, or claim **official affiliation, endorsement, ownership, or authorization** related to the Hyggshi name or brand without approval.
-
-- Use the Hyggshi name or any modified form of it in a manner that constitutes:
-  - Personal trademark infringement
-  - Organizational trademark infringement
-  - Identity impersonation
-  - Brand misuse or reputation abuse
-
-> Any unauthorized use of the name **Hyggshi** or its combined forms is considered a **violation of personal and organizational trademark rights**.
-
+ 
+To avoid confusion with the official project, you may not use the name **"Hyggshi"** or **"Hyggshi OS"**, or a name that contains or closely imitates it, as:
+ 
+* The name or title of your project or product
+* The name of a group or organization
+* Your logo, branding, or identifiers
+* The headline name in releases, marketing, or promotional materials
+unless you have written permission from the author (**Nguyen Minh Phuc**).
+ 
+You may not:
+ 
+* Present your project as official, or imply affiliation, endorsement, or authorization by the Hyggshi OS project without approval.
+* Publish a project in a way that is likely to cause confusion or a false association with the official project.
+* Impersonate the author or the official project.
+**Allowed:** Factual references to the origin of your mod, such as the attribution line in Section 6 and the title format in Section 5, are always permitted. These are not treated as use of the name as your own brand.
+ 
+If confusion occurs, you may be asked to rename or adjust your project (see Section 5).
+ 
+### 3.2 Respectful Tool Usage & Community Conduct
+ 
+**Reference ID:** `124657-HLWORD-VIHJVN-2026`
+ 
+Contributors and users may use whatever tools, editors, assistants, or workflows they like, including automated and AI-assisted tools. You may not:
+ 
+* Harass, mock, or demean anyone because of the tools or methods they use.
+* State or imply that a contribution is invalid only because of the tools used to make it.
+* Repeatedly accuse or speculate about a person's tool usage in a way that is demeaning or disruptive.
+* Treat people unequally in the community because of their development method, tooling choice, or level of automation.
+Transparency means being honest about your intent and process. It does not require disclosing every tool you use.
+ 
+**This section does not prevent:**
+ 
+* Reviewing contributions on their merits (bugs, security, performance, quality, style).
+* Asking for sources, licenses, or the origin of code and assets when there is a real copyright or licensing concern.
+* Good-faith, respectful questions about how something was made.
+Violations of this section may result in a warning, message removal, or a temporary or permanent ban, at the discretion of moderators or project administrators.
+ 
 ---
-
-## 4. Respectful Tool Usage & Community Conduct
-
-All contributors are expected to maintain respectful behavior.
-
-Harassment or discrimination based on development methods, tools, or technologies (including AI-assisted tools) is not allowed.
-
-This includes:
-
-* Mocking someone for using AI or automation.
-* Claiming that work is invalid solely because of tool usage.
-* Repeatedly accusing or speculating about someone’s tools in a disruptive way.
-
-Transparency means being honest about intent — it does not require disclosing every tool used.
-
-Moderators may issue warnings, remove messages, or restrict access if necessary.
-
+ 
+## 4. Moderation
+ 
+Moderators and project administrators may warn, remove messages, or restrict access in official Hyggshi OS spaces when this policy is violated. Decisions apply to official spaces only. If you think a decision was a mistake, you can contact the author using the details in Section 8.
+ 
 ---
-
+ 
 ## 5. Name & Branding Guidelines
-
+ 
 To avoid confusion:
-
-* Do not use “Hyggshi” or “Hyggshi OS” in the title of your mod without permission.
+ 
+* Do not use "Hyggshi" or "Hyggshi OS" as the name of your mod without permission.
 * Do not present your mod as official.
 * Do not imply endorsement or affiliation unless approved.
-
 Recommended format for mods:
-
-> “[Project Name] – A Mod Based on Hyggshi OS”
-
-This keeps branding clear while allowing creative freedom.
-
+ 
+> "[Project Name] – A Mod Based on Hyggshi OS"
+ 
+Here, "Hyggshi OS" only states where the mod came from. Your own project name must be different and come first.
+ 
 If confusion or impersonation occurs, you may be asked to rename your project.
-
+ 
 ---
-
+ 
 ## 6. Attribution Requirement
-
+ 
 All mods must include:
-
-> “Based on Hyggshi OS by Nguyen Minh Phuc. Mod version by [Your Name].”
-
+ 
+> "Based on Hyggshi OS by Nguyen Minh Phuc. Mod version by [Your Name]."
+ 
 This notice must remain visible in documentation or credits.
-
+ 
 ---
-
+ 
 ## 7. Liability
-
+ 
 The original author is not responsible for issues, damages, or policy violations caused by third-party mods.
-
+ 
 All derivative works must comply with Roblox Terms of Service and applicable laws.
-
+ 
 ---
-
-## 8. Commercial Licensing
-
-For commercial usage or partnership discussions, contact:
-
+ 
+## 8. Commercial Licensing & Contact
+ 
+For commercial usage, partnership discussions, written permissions, or questions about this policy, contact:
+ 
 * Roblox: Hyggshi / rbtfjt
 * Discord: @hyggshi
 * Email: [hyggshidev@gmail.com](mailto:hyggshidev@gmail.com)
-
 ---
-
+ 
 © 2024–2026 Nguyen Minh Phuc
